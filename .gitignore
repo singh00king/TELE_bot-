@@ -1,3 +1,5 @@
 .venv/
 .env
+files/
 x.ipynb
+__pycache__/
